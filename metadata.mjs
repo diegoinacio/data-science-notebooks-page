@@ -4,6 +4,50 @@ export const HEADER = {
 };
 
 export const INDEX = [
+  // ! Probability & Statistics
+  {
+    id: "Probability-and-Statistics",
+    name: "Probability & Statistics",
+    description:
+      "Everything about <em>statistics</em>, <em>probabilities</em>, <em>inferences</em>, <em>combinatorics</em>, <em>discrete math</em> and so on.",
+    notebooks: [
+      {
+        id: "binomial_distribution",
+        name: "Binomial Distribution",
+        description:
+          "Brief overview about Discrete probability and binomial distribution.",
+      },
+      {
+        id: "z-table",
+        name: "Z Table",
+        description: "Study about standard normal distribution.",
+      },
+    ],
+  },
+  // ! Mathematics
+  {
+    id: "Mathematics",
+    name: "Mathematics",
+    description:
+      "Main mathematical concepts applied to <em>data science</em>. (<em>mainly calculus, linear algebra and financial mathematics</em>)",
+    notebooks: [
+      {
+        id: "calculus_fourier-series",
+        name: "Calculus - Fourier Series",
+        description: "Brief overview of <em>Fourier series</em>.",
+      },
+      {
+        id: "linear-algebra_vectors",
+        name: "Linear Algebra - Vectors",
+        description: "Linear Algebra topic about <em>Vectors</em>.",
+      },
+      {
+        id: "linear-algebra_matrices",
+        name: "Linear Algebra - Matrices",
+        description: "Linear Algebra topic about <em>Matrices</em>.",
+      },
+    ],
+  },
   // ! Data Visualization
   {
     id: "Data-Visualization",
