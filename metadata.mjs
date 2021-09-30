@@ -22,6 +22,12 @@ export const INDEX = [
         name: "Z Table",
         description: "Study about standard normal distribution.",
       },
+      {
+        id: "measures_central_location",
+        name: "Measures of Central Location",
+        description:
+          "Overview of location measures and central tendency of data.",
+      },
     ],
   },
   // ! Mathematics
