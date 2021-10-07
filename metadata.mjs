@@ -28,6 +28,11 @@ export const INDEX = [
         description:
           "Overview of location measures and central tendency of data.",
       },
+      {
+        id: "measures_dispersion",
+        name: "Measures of Dispersion",
+        description: "Overview of dispersion measures in statistics.",
+      },
     ],
   },
   // ! Mathematics
