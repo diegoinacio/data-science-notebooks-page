@@ -2900,6 +2900,8 @@ table.alt tbody tr td {
 
 #header .description .notebooks {
   border-bottom: 1px dotted #26bed9;
+  background-color: rgba(38, 190, 217, 0.1);
+  padding: 0 0.2em 0.2em 0.2em;
 }
 
 #header .description .data-science {
