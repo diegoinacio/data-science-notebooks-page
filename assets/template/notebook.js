@@ -25,7 +25,7 @@ if (notebook_link) {
   div_buttons.appendChild(a_button);
 }
 
-// * Return to Computer Vision Notebooks
+// * Return to Data Science Notebooks
 a_button = document.createElement("a");
 a_button.href = "https://diegoinacio.github.io/data-science-notebooks-page/";
 a_button.innerHTML = `
