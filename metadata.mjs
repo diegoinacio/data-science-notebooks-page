@@ -35,6 +35,21 @@ export const INDEX = [
       },
     ],
   },
+  // ! Data Analytics
+  {
+    id: "Data-Analytics",
+    name: "Data Analytics",
+    description:
+      "Best practices in <em>data analysis</em> and <em>analytics</em>, with a main focus on <em>big data</em> and <em>real-world applications</em> in the data scientists' routine.",
+    notebooks: [
+      {
+        id: "feature-scaling",
+        name: "Feature scaling",
+        description:
+          "Overview and practical applications of key <em>feature scaling</em> methods.",
+      },
+    ],
+  },
   // ! Mathematics
   {
     id: "Mathematics",
