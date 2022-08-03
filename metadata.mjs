@@ -33,6 +33,12 @@ export const INDEX = [
         name: "Measures of Dispersion",
         description: "Overview of dispersion measures in statistics.",
       },
+      {
+        id: "measures_position",
+        name: "Measures of Position",
+        description:
+          "Overview of measures of position in sample or distributions.",
+      },
     ],
   },
   // ! Data Analytics
