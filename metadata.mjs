@@ -39,6 +39,11 @@ export const INDEX = [
         description:
           "Overview of measures of position in sample or distributions.",
       },
+      {
+        id: "measures_shape",
+        name: "Measures of Shape",
+        description: "Overview of measures of shape in distributions.",
+      },
     ],
   },
   // ! Data Analytics
