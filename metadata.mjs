@@ -12,6 +12,12 @@ export const INDEX = [
       "Everything about <em>statistics</em>, <em>probabilities</em>, <em>inferences</em>, <em>combinatorics</em>, <em>discrete math</em> and so on.",
     notebooks: [
       {
+        id: "combinatorial_analysis",
+        name: "Combinatorial Analysis",
+        description:
+          "Gathering of some of the main methods of combinatorial analysis.",
+      },
+      {
         id: "binomial_distribution",
         name: "Binomial Distribution",
         description:
