@@ -59,6 +59,12 @@ export const INDEX = [
       "Best practices in <em>data analysis</em> and <em>analytics</em>, with a main focus on <em>big data</em> and <em>real-world applications</em> in the data scientists' routine.",
     notebooks: [
       {
+        id: "regression-analysis",
+        name: "Regression Analysis",
+        description:
+          "Analysis and implementation of some of the main <em>Regression</em> models.",
+      },
+      {
         id: "feature-scaling",
         name: "Feature scaling",
         description:
