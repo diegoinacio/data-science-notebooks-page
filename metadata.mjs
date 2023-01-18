@@ -140,4 +140,18 @@ export const INDEX = [
       },
     ],
   },
+  // ! Tips & Tricks
+  {
+    id: "Tips-and-Tricks",
+    name: "Tips & Tricks",
+    description:
+      "A gathering of <em>Tips & Tricks</em> involving any supporting information for <em>data science</em> in general.",
+    notebooks: [
+      {
+        id: "web-scraping",
+        name: "Web Scraping",
+        description: "Some demonstrations of how to scrape data on the web.",
+      },
+    ],
+  },
 ];
