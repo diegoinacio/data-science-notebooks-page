@@ -17,6 +17,11 @@ export const INDEX = [
         description: "Brief overview of discrete probability distributions.",
       },
       {
+        id: "distributions_continuous",
+        name: "Continuous probability distributions",
+        description: "Brief overview of continuous probability distributions.",
+      },
+      {
         id: "combinatorial_analysis",
         name: "Combinatorial Analysis",
         description:
