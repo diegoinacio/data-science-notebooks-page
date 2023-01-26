@@ -156,7 +156,7 @@ export const INDEX = [
         id: "kaggle-data",
         name: "Kaggle data",
         description:
-          "Methods to obtain data from the <em>Kaggle</em> platform.",
+          "Methods to obtain dataset from the <em>Kaggle</em> platform.",
       },
       {
         id: "web-scraping",
