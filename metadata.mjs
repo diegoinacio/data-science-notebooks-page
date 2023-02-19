@@ -153,6 +153,11 @@ export const INDEX = [
       "A gathering of <em>Tips & Tricks</em> involving any supporting information for <em>data science</em> in general.",
     notebooks: [
       {
+        id: "financial-data",
+        name: "Financial data",
+        description: "Getting financial data for stock analysis.",
+      },
+      {
         id: "kaggle-data",
         name: "Kaggle data",
         description:
