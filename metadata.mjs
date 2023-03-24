@@ -13,12 +13,12 @@ export const INDEX = [
     notebooks: [
       {
         id: "distributions_discrete",
-        name: "Discrete probability distributions",
+        name: "Probability Distribution - Discrete",
         description: "Brief overview of discrete probability distributions.",
       },
       {
         id: "distributions_continuous",
-        name: "Continuous probability distributions",
+        name: "Probability Distribution - Continuous",
         description: "Brief overview of continuous probability distributions.",
       },
       {
