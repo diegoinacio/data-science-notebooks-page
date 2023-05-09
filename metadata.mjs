@@ -85,6 +85,11 @@ export const INDEX = [
       "Main mathematical concepts applied to <em>data science</em>. (<em>mainly calculus, linear algebra and financial mathematics</em>)",
     notebooks: [
       {
+        id: "factorial",
+        name: "Factorial",
+        description: "A quick summary of factorial, gamma function and more.",
+      },
+      {
         id: "capital-pi-notation",
         name: "Capital-pi notation",
         description:
