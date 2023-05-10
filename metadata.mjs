@@ -61,7 +61,7 @@ export const INDEX = [
     id: "Data-Analytics",
     name: "Data Analytics",
     description:
-      "Best practices in <em>data analysis</em> and the main methods of <em>advanced analytics</em>.",
+      "Key concepts in <em>data analysis</em> and useful practices in the daily routine of a <em>data scientist</em>.",
     notebooks: [
       {
         id: "regression-analysis",
