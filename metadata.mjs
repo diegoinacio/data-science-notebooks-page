@@ -64,12 +64,6 @@ export const INDEX = [
       "Key concepts in <em>data analysis</em> and useful practices in the daily routine of a <em>data scientist</em>.",
     notebooks: [
       {
-        id: "regression-analysis",
-        name: "Regression Analysis",
-        description:
-          "Analysis and implementation of some of the main <em>Regression</em> models.",
-      },
-      {
         id: "feature-scaling",
         name: "Feature scaling",
         description:
